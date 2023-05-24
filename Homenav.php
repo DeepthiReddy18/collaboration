@@ -1,5 +1,5 @@
 
-
+<!--navbar-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light newnavcls">
     <div class="container-fluid dark">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -15,7 +15,7 @@
     </div>
 </nav>
 
-
+<!--css-->
 <style>
     .newnavcls{
         background-color: #198754 !important;
