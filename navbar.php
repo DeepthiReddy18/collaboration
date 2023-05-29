@@ -28,11 +28,9 @@
     li.nav-item{  
         width:160px;         
     }
-
     .nav-link{
         display:flex;     
     }
-    
     .nav-item>a{
         display:block;
         color:#fff;                       
@@ -45,29 +43,24 @@
         color:#fff;
         text-decoration:none;           
     }
-
     #navbarDropdown>a{
         text-decoration:none; 
         color:#fff;
     }
-
     .navbar-nav.show >.nav-link {
         text-decoration:none; 
         color:#fff;
     }
-
     ul.dropdown-menu.show{
         float:left;
         width:100px;
         color:#fff;
         text-decoration:none;
     }
-
     .dropdown-menu {
         position: absolute;
         min-width: 160px;
     }
-
     .nav-item{
         width:30px;    
     }
