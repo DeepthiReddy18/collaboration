@@ -38,6 +38,8 @@
         color:#fff;                       
     }
 
+
+    /* navbar editing */
     .navbar-nav.me-auto.mb-2.mb-lg-0>.nav-item>a:hover{
         background-color:#141414;
         color:#fff;
