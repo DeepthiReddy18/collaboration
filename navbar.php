@@ -1,36 +1,30 @@
-
+<!--css-->
 <style>
     .newnavcls{
         background-color: #198754 !important;
         height:55px;
         color:#fff;
     }
-
     .container-fluid{
         height:55px;
         padding-left:2px;
         padding-right:2px;
     }
-
     .container-fluid{
         --bs-gutter-x: 0rem;
         --bs-gutter-y: 0;
     }
-
     .collapse ul{   
         width:650px;
         text-align:center;
     }
-
     ul.navbar-nav{
         margin-left:400px;
     }
-
     .navbar-nav {
         --bs-nav-link-padding-x: 0rem;
         --bs-nav-link-padding-y: 1.0rem;
     }
-
     li.nav-item{  
         width:160px;         
     }
@@ -44,6 +38,8 @@
         color:#fff;                       
     }
 
+
+    /* navbar editing */
     .navbar-nav.me-auto.mb-2.mb-lg-0>.nav-item>a:hover{
         background-color:#141414;
         color:#fff;
@@ -76,11 +72,13 @@
         width:30px;    
     }
 
+    /* editing navbar file in editing branch */
+
 
     
 
 </style>
-
+<!--navbar-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light newnavcls">
     <div class="container-fluid dark">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
